@@ -1,0 +1,17 @@
+.custom-table .ant-table {
+  background-color: #281E35 !important; 
+}
+
+.custom-table .ant-table-thead > tr > th {
+  background-color: #281E35 !important; 
+  color: white !important;
+}
+
+.custom-table .ant-table-tbody > tr > td {
+  background-color: #281E35 !important; 
+  color: white !important;
+}
+
+.custom-table .ant-pagination {
+  background-color: #281E35 !important; 
+}
